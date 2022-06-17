@@ -4,7 +4,7 @@ const  app = document.getElementById('app');
 const timerContainer = app.querySelector('.timerContainer')
 setInterval(()=>{
 const summer = {
-    year: 2022,
+    year: 2023,
     month: 6,
     day:1,
     hour:0,
